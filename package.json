@@ -1,0 +1,14 @@
+{
+  "name": "githubb",
+  "version": "1.0.0",
+  "description": "Do you want to be the cool kid at school?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Divyansh Srivastava",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^6.1.0"
+  }
+}
